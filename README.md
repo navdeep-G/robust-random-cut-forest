@@ -1,6 +1,6 @@
 # Robust Random Cut Forests
 
-This repo contains an implementation of the `Robust Random Cut Forest` anomaly detection model. This model attempts to find "anomalies" by seeking out points whose structure is not consistent with the rest of the data set. The `random_cut_forest` folder contains the `RandomCutForest` algorithm while the `notebooks` folder contains ipython notebooks showing examples leveraging the module.
+This repo contains an implementation of the `Robust Random Cut Forest` anomaly detection model. This model attempts to find anomalies by seeking out points whose structure is not consistent with the rest of the data set. The `random_cut_forest` folder contains the `RandomCutForest` algorithm while the `notebooks` folder contains ipython notebooks showing examples leveraging the module.
 
 ## Contributing
 If you want to contribute to this repo simply submit a pull request!
