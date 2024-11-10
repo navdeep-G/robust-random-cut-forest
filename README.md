@@ -46,8 +46,3 @@ All tests are written using `pytest`. Simply `pip install pytest` to be able to 
 which can be located [here](http://jmlr.org/proceedings/papers/v48/guha16.pdf).
 * The original isolation forest paper can be found [here](http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf).
 * Isolation Forests have been implemented in [sklearn](http://scikit-learn.org/dev/modules/generated/sklearn.ensemble.IsolationForest.html)
-
-
-## Contact
-<mr.navdeepgill@gmail.com>
-
